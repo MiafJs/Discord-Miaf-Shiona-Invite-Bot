@@ -13,7 +13,7 @@
 
 => **Miaf**
 
-❯   Discord: [Muratva Stark](https://discord.com/users/324886053884264449)
+❯   Discord: [Miaf](https://discord.com/users/324886053884264449)
 ❯   Github: [@MiafJs](https://github.com/MiafJs)
 
 => **Shinoa**
